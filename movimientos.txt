@@ -1,0 +1,2 @@
+entrada: 3 monitores
+salida: 2 mause
